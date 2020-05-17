@@ -1,0 +1,13 @@
+C:\Users\Israilla\source\repos_CSHARP_avançado\Matrixes\Ex002\Ex002\bin\Debug\netcoreapp3.1\Ex002.exe
+C:\Users\Israilla\source\repos_CSHARP_avançado\Matrixes\Ex002\Ex002\bin\Debug\netcoreapp3.1\Ex002.deps.json
+C:\Users\Israilla\source\repos_CSHARP_avançado\Matrixes\Ex002\Ex002\bin\Debug\netcoreapp3.1\Ex002.runtimeconfig.json
+C:\Users\Israilla\source\repos_CSHARP_avançado\Matrixes\Ex002\Ex002\bin\Debug\netcoreapp3.1\Ex002.runtimeconfig.dev.json
+C:\Users\Israilla\source\repos_CSHARP_avançado\Matrixes\Ex002\Ex002\bin\Debug\netcoreapp3.1\Ex002.dll
+C:\Users\Israilla\source\repos_CSHARP_avançado\Matrixes\Ex002\Ex002\bin\Debug\netcoreapp3.1\Ex002.pdb
+C:\Users\Israilla\source\repos_CSHARP_avançado\Matrixes\Ex002\Ex002\obj\Debug\netcoreapp3.1\Ex002.csprojAssemblyReference.cache
+C:\Users\Israilla\source\repos_CSHARP_avançado\Matrixes\Ex002\Ex002\obj\Debug\netcoreapp3.1\Ex002.csproj.CoreCompileInputs.cache
+C:\Users\Israilla\source\repos_CSHARP_avançado\Matrixes\Ex002\Ex002\obj\Debug\netcoreapp3.1\Ex002.AssemblyInfoInputs.cache
+C:\Users\Israilla\source\repos_CSHARP_avançado\Matrixes\Ex002\Ex002\obj\Debug\netcoreapp3.1\Ex002.AssemblyInfo.cs
+C:\Users\Israilla\source\repos_CSHARP_avançado\Matrixes\Ex002\Ex002\obj\Debug\netcoreapp3.1\Ex002.dll
+C:\Users\Israilla\source\repos_CSHARP_avançado\Matrixes\Ex002\Ex002\obj\Debug\netcoreapp3.1\Ex002.pdb
+C:\Users\Israilla\source\repos_CSHARP_avançado\Matrixes\Ex002\Ex002\obj\Debug\netcoreapp3.1\Ex002.genruntimeconfig.cache
